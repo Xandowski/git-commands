@@ -1,6 +1,5 @@
-# Git branches
+# Git Commands
 
-Repository for studies on branches
-I followed this tutorial from [freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) youtube channel:
+Repository of studies on git
 
 [Git Branches Tutorial](https://www.youtube.com/watch?v=e2IbNHi4uCI)
